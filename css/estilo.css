@@ -51,15 +51,15 @@ align-Items:flex-start;
 
 h1{
     color: white;
-    font-size: ;
+    margin-left: 15px;
 }
 .fort{
 width: 400px;
 border-color: yellow;
 border-width: 12px;
 border-style: double;
-margin-left: -8px ;
-margin-top: -9px;
+margin-left: 15px ;
+margin-top: 30px;
 
 }
 .nite{
@@ -73,8 +73,8 @@ margin-top: -9px;
     border-color: rgb(218, 134, 8);
     border-width: 12px;
     border-style: double;
-    margin-top: -9px;
-    margin-left:-9px ;
+    margin-top: 180px;
+    margin-left:15px ;
     }
     .rant{
         color: white;
@@ -86,13 +86,13 @@ margin-top: -9px;
         border-color: rgb(75, 10, 226);
         border-width: 12px;
         border-style: double;
-        margin-top: -9px;
-        margin-left:-9px ;
+        margin-top:160px;
+        margin-left:15px ;
      }
 .craft{
             color: white;
             margin-left: 32%;
-            margin-top: -38%;
+            margin-top: -37%;
        }
 p{
          margin-right: 300px;
@@ -100,25 +100,10 @@ p{
          text-align: justify;
   }
 
- #botao1{
-          color: transparent;
-          margin-left:25px ;
-          width: 380px;
-          height: 400px;
-      }
- #botao2{
-    color: transparent;
-    margin-left:20px ;
-    margin-top: 180px;
-    width: 379px;
-    height: 500px;
-
-      }
-#botao3{
-    color: transparent;
-    
-    margin-left:25px ;
-    margin-top:160px ;
-    width: 380px;
-    height: 400px;
-    }
+.bot{
+    width: 70px;
+    height: 30px;
+    border-color: yellow;
+    border-width: 5px;
+    border-style: solid;
+}
